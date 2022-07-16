@@ -1,0 +1,13 @@
+C:\Users\BatuhanBulut\Desktop\projects\csharp_projects\simpleCalculator\simpleCalculator\bin\Debug\netcoreapp3.1\simpleCalculator.exe
+C:\Users\BatuhanBulut\Desktop\projects\csharp_projects\simpleCalculator\simpleCalculator\bin\Debug\netcoreapp3.1\simpleCalculator.deps.json
+C:\Users\BatuhanBulut\Desktop\projects\csharp_projects\simpleCalculator\simpleCalculator\bin\Debug\netcoreapp3.1\simpleCalculator.runtimeconfig.json
+C:\Users\BatuhanBulut\Desktop\projects\csharp_projects\simpleCalculator\simpleCalculator\bin\Debug\netcoreapp3.1\simpleCalculator.runtimeconfig.dev.json
+C:\Users\BatuhanBulut\Desktop\projects\csharp_projects\simpleCalculator\simpleCalculator\bin\Debug\netcoreapp3.1\simpleCalculator.dll
+C:\Users\BatuhanBulut\Desktop\projects\csharp_projects\simpleCalculator\simpleCalculator\bin\Debug\netcoreapp3.1\simpleCalculator.pdb
+C:\Users\BatuhanBulut\Desktop\projects\csharp_projects\simpleCalculator\simpleCalculator\obj\Debug\netcoreapp3.1\simpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BatuhanBulut\Desktop\projects\csharp_projects\simpleCalculator\simpleCalculator\obj\Debug\netcoreapp3.1\simpleCalculator.AssemblyInfoInputs.cache
+C:\Users\BatuhanBulut\Desktop\projects\csharp_projects\simpleCalculator\simpleCalculator\obj\Debug\netcoreapp3.1\simpleCalculator.AssemblyInfo.cs
+C:\Users\BatuhanBulut\Desktop\projects\csharp_projects\simpleCalculator\simpleCalculator\obj\Debug\netcoreapp3.1\simpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\BatuhanBulut\Desktop\projects\csharp_projects\simpleCalculator\simpleCalculator\obj\Debug\netcoreapp3.1\simpleCalculator.dll
+C:\Users\BatuhanBulut\Desktop\projects\csharp_projects\simpleCalculator\simpleCalculator\obj\Debug\netcoreapp3.1\simpleCalculator.pdb
+C:\Users\BatuhanBulut\Desktop\projects\csharp_projects\simpleCalculator\simpleCalculator\obj\Debug\netcoreapp3.1\simpleCalculator.genruntimeconfig.cache
