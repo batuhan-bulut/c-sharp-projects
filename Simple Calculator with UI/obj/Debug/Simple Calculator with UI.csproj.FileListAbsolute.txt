@@ -1,0 +1,12 @@
+C:\Users\BatuhanBulut\source\repos\Simple Calculator with UI\bin\Debug\Simple Calculator with UI.exe.config
+C:\Users\BatuhanBulut\source\repos\Simple Calculator with UI\bin\Debug\Simple Calculator with UI.exe
+C:\Users\BatuhanBulut\source\repos\Simple Calculator with UI\bin\Debug\Simple Calculator with UI.pdb
+C:\Users\BatuhanBulut\source\repos\Simple Calculator with UI\bin\Debug\en\Simple Calculator with UI.resources.dll
+C:\Users\BatuhanBulut\source\repos\Simple Calculator with UI\obj\Debug\Simple_Calculator_with_UI.Calculator.resources
+C:\Users\BatuhanBulut\source\repos\Simple Calculator with UI\obj\Debug\Simple_Calculator_with_UI.Properties.Resources.resources
+C:\Users\BatuhanBulut\source\repos\Simple Calculator with UI\obj\Debug\Simple_Calculator_with_UI.Calculator.en.resources
+C:\Users\BatuhanBulut\source\repos\Simple Calculator with UI\obj\Debug\Simple Calculator with UI.csproj.GenerateResource.cache
+C:\Users\BatuhanBulut\source\repos\Simple Calculator with UI\obj\Debug\Simple Calculator with UI.csproj.CoreCompileInputs.cache
+C:\Users\BatuhanBulut\source\repos\Simple Calculator with UI\obj\Debug\en\Simple Calculator with UI.resources.dll
+C:\Users\BatuhanBulut\source\repos\Simple Calculator with UI\obj\Debug\Simple Calculator with UI.exe
+C:\Users\BatuhanBulut\source\repos\Simple Calculator with UI\obj\Debug\Simple Calculator with UI.pdb

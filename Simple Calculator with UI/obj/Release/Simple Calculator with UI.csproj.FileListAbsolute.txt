@@ -1,0 +1,13 @@
+C:\Users\BatuhanBulut\Desktop\projects\csharp_projects\Simple Calculator with UI\bin\Release\Simple Calculator with UI.exe.config
+C:\Users\BatuhanBulut\Desktop\projects\csharp_projects\Simple Calculator with UI\bin\Release\Simple Calculator with UI.exe
+C:\Users\BatuhanBulut\Desktop\projects\csharp_projects\Simple Calculator with UI\bin\Release\Simple Calculator with UI.pdb
+C:\Users\BatuhanBulut\Desktop\projects\csharp_projects\Simple Calculator with UI\bin\Release\en\Simple Calculator with UI.resources.dll
+C:\Users\BatuhanBulut\Desktop\projects\csharp_projects\Simple Calculator with UI\obj\Release\Simple Calculator with UI.csproj.AssemblyReference.cache
+C:\Users\BatuhanBulut\Desktop\projects\csharp_projects\Simple Calculator with UI\obj\Release\Simple_Calculator_with_UI.Calculator.resources
+C:\Users\BatuhanBulut\Desktop\projects\csharp_projects\Simple Calculator with UI\obj\Release\Simple_Calculator_with_UI.Properties.Resources.resources
+C:\Users\BatuhanBulut\Desktop\projects\csharp_projects\Simple Calculator with UI\obj\Release\Simple_Calculator_with_UI.Calculator.en.resources
+C:\Users\BatuhanBulut\Desktop\projects\csharp_projects\Simple Calculator with UI\obj\Release\Simple Calculator with UI.csproj.GenerateResource.cache
+C:\Users\BatuhanBulut\Desktop\projects\csharp_projects\Simple Calculator with UI\obj\Release\Simple Calculator with UI.csproj.CoreCompileInputs.cache
+C:\Users\BatuhanBulut\Desktop\projects\csharp_projects\Simple Calculator with UI\obj\Release\en\Simple Calculator with UI.resources.dll
+C:\Users\BatuhanBulut\Desktop\projects\csharp_projects\Simple Calculator with UI\obj\Release\Simple Calculator with UI.exe
+C:\Users\BatuhanBulut\Desktop\projects\csharp_projects\Simple Calculator with UI\obj\Release\Simple Calculator with UI.pdb
