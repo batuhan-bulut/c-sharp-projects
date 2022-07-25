@@ -1,0 +1,14 @@
+C:\Users\BatuhanBulut\Desktop\projects\csharp_projects\battleship\BattleShip\bin\Debug\netcoreapp3.1\BattleShip.exe
+C:\Users\BatuhanBulut\Desktop\projects\csharp_projects\battleship\BattleShip\bin\Debug\netcoreapp3.1\BattleShip.deps.json
+C:\Users\BatuhanBulut\Desktop\projects\csharp_projects\battleship\BattleShip\bin\Debug\netcoreapp3.1\BattleShip.runtimeconfig.json
+C:\Users\BatuhanBulut\Desktop\projects\csharp_projects\battleship\BattleShip\bin\Debug\netcoreapp3.1\BattleShip.runtimeconfig.dev.json
+C:\Users\BatuhanBulut\Desktop\projects\csharp_projects\battleship\BattleShip\bin\Debug\netcoreapp3.1\BattleShip.dll
+C:\Users\BatuhanBulut\Desktop\projects\csharp_projects\battleship\BattleShip\bin\Debug\netcoreapp3.1\BattleShip.pdb
+C:\Users\BatuhanBulut\Desktop\projects\csharp_projects\battleship\BattleShip\obj\Debug\netcoreapp3.1\BattleShip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BatuhanBulut\Desktop\projects\csharp_projects\battleship\BattleShip\obj\Debug\netcoreapp3.1\BattleShip.AssemblyInfoInputs.cache
+C:\Users\BatuhanBulut\Desktop\projects\csharp_projects\battleship\BattleShip\obj\Debug\netcoreapp3.1\BattleShip.AssemblyInfo.cs
+C:\Users\BatuhanBulut\Desktop\projects\csharp_projects\battleship\BattleShip\obj\Debug\netcoreapp3.1\BattleShip.csproj.CoreCompileInputs.cache
+C:\Users\BatuhanBulut\Desktop\projects\csharp_projects\battleship\BattleShip\obj\Debug\netcoreapp3.1\BattleShip.dll
+C:\Users\BatuhanBulut\Desktop\projects\csharp_projects\battleship\BattleShip\obj\Debug\netcoreapp3.1\BattleShip.pdb
+C:\Users\BatuhanBulut\Desktop\projects\csharp_projects\battleship\BattleShip\obj\Debug\netcoreapp3.1\BattleShip.genruntimeconfig.cache
+C:\Users\BatuhanBulut\Desktop\projects\csharp_projects\battleship\BattleShip\obj\Debug\netcoreapp3.1\BattleShip.csproj.AssemblyReference.cache
